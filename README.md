@@ -26,6 +26,44 @@ For installing and using this colection in Icestudio follow these steps:
 
 
 
+## Examples
+* **01-LEDOscopio**
+  * 01-contador-LEDoscopio
+* **02-Start**
+  * 02-senales-constantes
+  * 03-start-generation
+* **03-Delay**
+  * 04-start-delay-1
+  * 05-start-delay-2
+* **04-Patron**
+  * 06-pattern-generation-1
+* **05-Operaciones**
+  * 07-not-operation
+  * 08-or-operation
+  * 09-and-operation
+  * 10-xor-operation
+* **06-bloque-sys-delay**
+  * 11-sys-delay-x01
+  * 12-sys-delay-x02
+  * 13-sys-delay-x02-impl-1
+  * 14-sys-delay-x02-impl-2
+  * 15-sys-delay-x02-impl-3
+  * 16-sys-delay-x04
+  * 17-sys-delay-x08
+  * 18-sys-delay-xN-3-ciclos
+  * 19-sys-delay-xN-5-ciclos
+  * 20-sys-delay-xN-K.5-ciclos
+* **07-Pulsos**
+  * 21-two-cycles-pulse
+  * 22-N-cycles-pulse
+  * 23-retardo-500ns
+* **08-Flancos**
+  * 24-rising-edge
+  * 25-rising-edge-tic
+  * 26-rising-edge-tic
+  * 27-falling-edge-tic
+  * 28-edge-detection
+  * 29-edge-detection-tic
 
 ## Authors
 * [Juan Gonzalez-Gomez (Obijuan)](https://github.com/Obijuan)
