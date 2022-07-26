@@ -1,0 +1,22 @@
+{
+  "name": "ct11",
+  "version": "0.1.0",
+  "description": "Ejemplos del cuaderno ténico 11: Señales del sistema y Medición con el LEDOscopio",
+  "header": "https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/raw/master/wiki/CT11-Senales-sistema-LEDOscopio/Portada/CT11-portada.png",
+  "footer": "https://github.com/FPGAwars/icestudio-wiki/raw/main/Logos/fgpawars-banner.svg",
+  "wiki": "https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki/CT.11:-Se%C3%B1ales-del-sistema.-Medici%C3%B3n-con-el-LEDOscopio",
+  "keywords": ["FPGA", "LEDOscope", "signals", "basic"],
+  "license": "GPL-2.0",
+  "authors": [{
+    "name": "Juan Gonzalez-Gomez (Obijuan)",
+    "email": "obijuan.cube@gmail.com",
+    "url": "https://github.com/Obijuan"
+  }],
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "branch": "main",
+    "url": "https://github.com/FPGAwars/CT11-collection"
+  }
+}
+
